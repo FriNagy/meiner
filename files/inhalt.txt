@@ -1,0 +1,1 @@
+Zwischendateien exe, bitmaps, logs. etc
