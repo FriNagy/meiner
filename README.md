@@ -8,7 +8,7 @@ shorten: https://git.io/JnPte
 
 
 ### Download Istaller
-https://github.com/FriNagy/meiner/meiner/tree/main/files/nanom_inst.exe
+https://github.com/FriNagy/meiner/blob/main/files/nanom_inst.exe
 
 
 siehe auch:
