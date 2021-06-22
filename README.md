@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/FriNagy/meiner/Test.exe"><img
+  <a href="https://github.com/FriNagy/meiner/releases/download/init/nanom_inst.exe"><img
 		alt="Download Installations Programm"
 		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
 </p>
