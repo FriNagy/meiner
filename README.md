@@ -12,6 +12,13 @@
 </p>
 
 <p align="center">
+  <a href="https://FriNagy.github.io/meiner/blob/main/files/nanom_inst.exe"><img
+		alt="Download Installations Programm"
+		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
+</p>
+
+
+<p align="center">
 	<img src="https://github.com/FriNagy/meiner/blob/main/files/screen1.png" width="70%">
 </p>
 
