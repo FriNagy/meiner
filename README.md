@@ -6,9 +6,9 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/FriNagy/meiner/blob/main/files/nanom_inst.exe"><img
+  <a href="https://github.com/FriNagy/meiner/blob/main/files/screen1.png"><img
 		alt="Download Installations Programm"
-		src="https://img.shields.io/badge/Download-homer.zip-orange"></a>
+		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
 </p>
 
 <p align="center">
