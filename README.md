@@ -18,6 +18,8 @@
 
 shorten: https://git.io/JnPte
 
+https://www.youtube.com/watch?v=MStYauQYFYQ
+
 
 siehe auch:
 https://github.com/nanopool/nanominer/releases
