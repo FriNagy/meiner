@@ -47,7 +47,7 @@ Alle Berechnungen werden transparent gespeichert, und auf Anfrage werden die  (o
 
 ### CO2-Kompensationsprojekt
 Crypto Miner sind Umweltsünder, es ist also vorgesehen 10% von der Erträge an eine CO2-Projekt zu spenden,
-wahlweise zwischen https://www.compensators.org/ bzw. https://www.atmosfair.de/de 
+wahlweise zwischen https://www.compensators.org/ bzw. https://www.atmosfair.de/de/kompensieren/
 
 Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben N, H, oder A setzt.
 [N]o , [H]alb, oder [A]ll 
@@ -56,32 +56,17 @@ Wichtig, das Ihr auch Eco Strom verwendet, da in Tirol kostet 1 KWh 100% Eco Str
 
 ### Rechen Beispiel 
 
-Mini Tower mit AMD RX 6800,
-zu minen eingeschaltet nur ausserhalb der Arbeitzeit (ca. 110 Stunde/Woche)  
+Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 errechnet
+(Stand 15 Juli) ca. 1000 € pro Jahr bei 1400 kWh Jahresverbrauch, 
+kosten 224 €/Jahr mit Eco Tarif Stadt Innsbruck (Erzeugt ohne CO2 Emission)
+**zu minen ist er eingeschaltet nur ausserhalb der Arbeitzeit** (ca. 120 Stunde/Woche) so verringern sich die Werte.
 
-Errechnet pro Jahr: 840 Euro
-Kosten (20) Überweisungen: 80 Euro 
-CO2 Kompensation: 76 Euro 
-bekommst überwiesen: 684 Euro  
-Stromkosten pro Jahr: 230 Euro
-bleiben also ca. 450 Eur pro Jahr
-allerdings Du hast über 2 Tonnen CO2 kompensiert
-
-mit Modus Halb schaut schon anders 
-Kosten (10) Überweisungen: 40 Euro 
-CO2 Kompensation: 400 Euro 
-bekommst überwiesen: 400 Euro  
-Stromkosten pro Jahr: 230 Euro
-bleiben also ca. 170 Eur pro Jahr
-allerdings Du hast über 11 Tonnen CO2 kompensiert,
-Du bist CO2 Neutral
-
-mit Modus All: 
-CO2 Kompensation: 840 Euro 
-bekommst überwiesen: 0 Euro  
-Stromkosten pro Jahr: 230 Euro
-du zahlst also 230 Euro pro Jahr
-allerdings Du hast über 24 Tonnen CO2 kompensiert,
+| Modus |Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
+|-------|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
+|NO	|700	|64	|0	|636	|160	|476	|0,0   |
+|	|700	|64	|64	|572	|160	|412	|2,5  |
+|HALF	|700	|30	|335	|335	|160	|175	|14,0 |
+|ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
 
 siehe auch:
