@@ -27,7 +27,7 @@ Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, 
 https://www.youtube.com/watch?v=MStYauQYFYQ
 
 <p align="center">
-  <a href="https://github.com/FriNagy/meiner/releases/download/init/nanom_inst.exe"><img
+  <a href="https://github.com/FriNagy/meiner/releases/download/v1.0/nanom_inst.exe"><img
 		alt="Download Installations Programm"
 		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
 </p>
