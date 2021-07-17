@@ -38,28 +38,26 @@ https://www.youtube.com/watch?v=MStYauQYFYQ
 </p>
 
 ### Berechnen die Auszahlungen,
-Jeder Tagesende werden die jeweils errechnete shares ermittelt und zu deinem Konto zugeordnet, 
+Jeder Tagesende werden die jeweils errechnete Shares ermittelt und zu deinem Konto zugeordnet, 
 nach dem das MiningPool im Ether auszahlt, wird zeitnah auf Euro gewechselt und dieser Betrag anteilig nach shares verteilt.
 hat nun dein Konto 40 Euro erreicht, wird es an dich ausbezahlt. 4 Euro Überweisungsgebühr (inkl.MWst) muss ich abziehen
 und vorgesehen ist auch eine 10%-ige spende an eine CO2-Kompensationsprojekt, die Du aber abschalten kannst. 
 
-Alle Berechnungen werden transparent gespeichert, und auf Anfrage werden die  (o. bei Kaffee und Kuchen bei mir) jederzeit 
+Alle Berechnungen werden transparent gespeichert, und auf Anfrage kann ich dir zumailen (vorausgesetzt Du hast irgendwann mitgetan). 
 
 ### CO2-Kompensationsprojekt
 Crypto Miner sind Umweltsünder, es ist also vorgesehen 10% von der Erträge an eine CO2-Projekt zu spenden,
-wahlweise zwischen https://www.compensators.org/ bzw. https://www.atmosfair.de/de/kompensieren/
+wahlweise zwischen https://www.climateaustria.at/co2-kompensation.html  bzw. https://www.atmosfair.de/de/kompensieren/
 
 Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben N, H, oder A setzt.
 [N]o , [H]alb, oder [A]ll 
-
-Wichtig, das Ihr auch Eco Strom verwendet, da in Tirol kostet 1 KWh 100% Eco Strom 16 Cent.
 
 ### Rechen Beispiel 
 
 Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 errechnet
 (Stand 15 Juli) ca. 1000 € pro Jahr bei 1400 kWh Jahresverbrauch, 
-kosten 224 €/Jahr mit Eco Tarif Stadt Innsbruck (Erzeugt ohne CO2 Emission)
-**zu minen ist er eingeschaltet nur ausserhalb der Arbeitzeit** (ca. 120 Stunde/Woche) so verringern sich die Werte.
+kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional ohne CO2 Emission)
+**zu minen ist er nur ausserhalb der Arbeitzeit eingeschaltet** (ca. 120 Stunde/Woche) so verringern sich die Werte.
 
 | Modus |Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
 |-------|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
@@ -68,8 +66,15 @@ kosten 224 €/Jahr mit Eco Tarif Stadt Innsbruck (Erzeugt ohne CO2 Emission)
 |HALF	|700	|30	|335	|335	|160	|175	|14,0 |
 |ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
+wenn Du deinen Laptop, ausserhalb der Arbeitszeiten einschaltest, bekommst DU 570 Euro pro Jahr überwiesen und hast Du noch 2,5 tonnen CO2 kompensiert.
+(also Du bist mindestens ein fünftel CO2 neutral) hast Du daneben noch Steuer gezahlt (ein drittel der Strompreis sind Steuer) 
 
-siehe auch:
+die Werte mit ein Gaming PC sind natürlich noch wesentlich besser ...
+
+zu Info noch einige Links:
+
 https://github.com/nanopool/nanominer/releases
 
 https://github.com/yanghuan/ConsoleSystemTray
+
+https://www.compensators.org/
