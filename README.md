@@ -66,10 +66,10 @@ kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional oh
 |HALF	|700	|30	|335	|335	|160	|175	|14,0 |
 |ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
-wenn Du deinen Laptop, ausserhalb der Arbeitszeiten einschaltest, bekommst DU 570 Euro pro Jahr überwiesen und hast Du noch 2,5 tonnen CO2 kompensiert.
-(also Du bist mindestens ein fünftel CO2 neutral) hast Du daneben noch Steuer gezahlt (ein drittel der Strompreis sind Steuer) 
+Ist dein Laptop, ausserhalb der Arbeitszeiten eingeschaltet, bekommst Du 570 Euro pro Jahr überwiesen und hast noch 2,5 tonnen CO2 kompensiert.
+(also Du bist mindestens ein fünftel CO2 neutral) hast daneben noch Steuer gezahlt (ein drittel der Strompreis sind Steuer) 
 
-die Werte mit ein Gaming PC sind natürlich noch wesentlich besser ...
+die Werte mit ein Gaming PC sind natürlich noch  besser ...
 
 zu Info noch einige Links:
 
