@@ -1,4 +1,4 @@
-# meiner
+# meiner (mein miner)
 
 
 <h4 align="center">
@@ -47,10 +47,10 @@ Alle Berechnungen werden transparent gespeichert, und auf Anfrage kann ich dir z
 
 ### CO2-Kompensationsprojekt
 Crypto Miner sind Umweltsünder, es ist also vorgesehen 10% von der Erträge an eine CO2-Projekt zu spenden,
-wahlweise zwischen https://www.climateaustria.at/co2-kompensation.html  bzw. https://www.atmosfair.de/de/kompensieren/
+wahlweise zwischen [climateaustria.at](https://www.climateaustria.at/co2-kompensation.html)  bzw. [atmosfair.de](https://www.atmosfair.de/de/kompensieren/)
 
-Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben N, H, oder A setzt.
-[N]o , [H]alb, oder [A]ll 
+Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben `N`, `H`, oder `A` setzt.
+`[N]o` , `[H]alb`, oder `[A]ll` 
 
 ### Rechen Beispiel 
 
@@ -62,7 +62,7 @@ kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional oh
 | Modus |Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
 |-------|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
 |NO	|700	|64	|0	|636	|160	|476	|0,0   |
-|	|700	|64	|64	|572	|160	|412	|2,5  |
+|	|700	|64	|64	|`572`	|160	|412	|2,5  |
 |HALF	|700	|30	|335	|335	|160	|175	|14,0 |
 |ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
