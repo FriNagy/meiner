@@ -83,15 +83,15 @@ die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 ### Fazit  
 **wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,  
 dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :)  
-wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten nicht einschaltest:  
+wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
 > passiert nichts  
  
-wenn Du einschaltest und zB. mit modus `H` mitarbeitest:   
+wenn Du einschaltest und zB. **mit modus `H` mitarbeitest**:   
 > **kompensierst 14 tonnen CO2,**  
 > mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
 > dein CO2 bilanz bleibt positiv  
 > **Du bekommst 330 € im Jahr, :)**  
-> kannst paarmal gut essen gehen oder dein    
+> kannst paarmal gut essen gehen oder sonst ausgeben    
 > **Du zahlst 160 € für Strom :(**  
 > davon sind 50 € Steuern und Abgaben dir f. die allgemeinheit zu gute kommen  
 > andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)  
