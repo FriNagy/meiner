@@ -8,21 +8,22 @@
 habe einige test bezüglich crypto-mining gestartet, da sind meine Erfahrungen und Ideen
 alles ohne Gewähr, Cryptos (in dem Fall Ether) sind sehr volatil und unberechenbar
 die Ertäge können doppelt aber auch nur halb so hoch sein, von Tageskurs (usw.) abhängig.
+Durchschnittswerte pro **Monat**:
 
 
-|Grafikkarte        |PC         | Mh/s | Watt| Ein/M   | Strom/M|Ertrag/M|
+|Grafikkarte        |PC         | Mh/s | Watt/h| Ein   | Kosten Strom|Ertrag|
 |-------------------|-----------|-----:|----:|--------:|-------:|-------:|
-|AMD RX 6800        |noname     |60    |240  |105      |28	|87|				
-|Geforce RTXm 3070  |MSI Leopard|52    |160  |85       |19	|66|				
-|Geforce RTXm 3060  |Acer Nitro |35    |100  |60       |12	|48|
+|AMD RX 6800        |noname     |60    |240  |105 €      |28 €	|87 €|				
+|Geforce RTXm 3070  |MSI Leopard|52    |160  |85 €       |19 €	|66 €|				
+|Geforce RTXm 3060  |Acer Nitro |35    |100  |60 €       |12 €	|48 €|
 
 Also mit ein aktuellen gaming Laptop, könnt ihr monatlich 50 bis 70 Euro einnehmen,  
-allerdings muss da euere Gerät rund um die Uhr mit volle Leistung (also laut) laufen.  
+allerdings muss da euere Gerät **rund um die Uhr** mit volle Leistung (also **laut**) laufen.  
 
-Wenn ihr das ganze einfach testen könnt, könnt ihr es mit meine Konto machen.  
+Wenn ihr das ganze einfach testen wollt, könnt ihr es einfach mit meine Konto machen.  
 
 Das installationsprogramm runterladen, installieren (dabei deinen IBAN eingeben (oder nicht)) und starten.  
-Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, überwiesen oder für ein Umweltprojekt gespendet.  
+Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, überwiesen sonst für ein Umweltprojekt gespendet.  
 
 [VideoClip installation](https://www.youtube.com/watch?v=MStYauQYFYQ)
 
@@ -45,10 +46,10 @@ und vorgesehen ist auch eine 10%-ige spende an eine CO2-Kompensationsprojekt, di
 
 zu Überweisen brauche ich nur deinen IBAN, auf diese Konto (mit Kontobezeichnung N.N.) überweise ich den restlichen Betrag.  
 Dein IBAN ist natürlich auch alle anderen miner sichtbar, (das ist quasi deine Nickname) willst Du das nicht gibt zwei Möglichkeiten:
- - [ ] Deine Erträge werden nicht ausbezahhlt sondern f. CO2 Kompensation verwendet  
- - [ ] Du arbeitest mit falschen IBAN (nur Zahlen) und Überweist 1 (oder mehr) Euro auf mein Konto mit dem hinweis, so sehe ich auf welche Konto überweisen soll 
+ - [ ] Du gibst keine o. falsche IBAN an, Deine Erträge werden nicht ausbezahhlt sondern f. CO2 Kompensation verwendet  
+ - [ ] Du arbeitest zwar mit falschen IBAN (nur Zahlen) und Überweist 1 (oder mehr) Euro auf mein Konto mit dem hinweis, so sehe ich auf welche Konto überweisen soll 
 
-Alle Berechnungen werden transparent gespeichert, und auf Anfrage kann ich dir zumailen (vorausgesetzt Du hast irgendwann mitgetan). 
+Alle Berechnungen werden transparent gespeichert, und auf Anfrage kann ich dir zumailen (vorausgesetzt Du hast irgendwann mitgetan (und ich kenne dein EMail)). 
 
 ### CO2-Kompensationsprojekt
 Crypto Miner sind Umweltsünder, es ist also vorgesehen 10% von der Erträge an eine CO2-Projekt zu spenden,
@@ -67,7 +68,7 @@ kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional oh
 | Modus |Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
 |-------|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
 |NO	|700	|64	|0	|636	|160	|476	|0,0   |
-|	|700	|64	|64	|`572`	|160	|412	|2,5  |
+|	|700	|64	|64	|572	|160	|412	|2,5  |
 |HALF	|700	|30	|335	|335	|160	|175	|14,0 |
 |ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
@@ -79,9 +80,22 @@ die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 ### zu Umwelt
 
 
-
-zu Info noch einige Links:
-
+### Fazit
+**wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,
+dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :) 
+wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten nicht einschaltest:
+> passiert nichts
+wenn Du einschaltest und zB. mit modus `H` mitarbeitest:
+> **kompensierst 14 tonnen CO2,**
+> mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,
+> dein CO2 bilanz bleibt positiv  
+> **Du bekommst 330 € im Jahr, :)** 
+> kannst paarmal gut essen gehen oder dein   
+> **Du zahlst 160 € für Strom :(**
+> davon sind 50 € Steuern und Abgaben dir f. die allgemeinheit zu gute kommen
+> andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)
+> der Rest sind energiekosten
+>   
 https://github.com/nanopool/nanominer/releases
 
 https://github.com/yanghuan/ConsoleSystemTray
