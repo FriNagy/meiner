@@ -76,9 +76,6 @@ Ist dein Laptop, ausserhalb der Arbeitszeiten eingeschaltet, bekommst Du 570 Eur
 
 die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 
-### zu Umwelt
-
-
 ### Fazit  
 **wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,  
 dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :)  
@@ -89,18 +86,16 @@ dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun al
 > **kompensierst 14 tonnen CO2,**  
 > mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
 > dein CO2 bilanz bleibt positiv  
-> **Du bekommst 330 € im Jahr, :)**  
+> **Du bekommst 330 € im Jahr auf dein Konto :)**  
 > kannst paarmal gut essen gehen oder sonst ausgeben    
 > **Du zahlst 160 € für Strom :(**  
 > davon sind 50 € Steuern und Abgaben die f. dich und f. allgemeinheit zu gute kommen  
 > andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)  
 > der Rest sind energiekosten  
-> **Du Unterstützt die Crypto environment :(**  
-> ca. 1% geht an die Entwickler 8 € 
-> ca. 1% geht an die Miningpool 8 € 
-> ca. 2% gehen auf Transaktionskosten Pool - ETH - EUR 
-> ca. 30 € kosten f. die Überweisungen
-> 
+
+
+weitere Links:
+
 https://github.com/nanopool/nanominer/releases
 
 https://github.com/yanghuan/ConsoleSystemTray
