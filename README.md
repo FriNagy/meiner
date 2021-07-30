@@ -73,7 +73,6 @@ kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional oh
 |ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
 
 Ist dein Laptop, ausserhalb der Arbeitszeiten eingeschaltet, bekommst Du 570 Euro pro Jahr überwiesen und hast noch 2,5 tonnen CO2 kompensiert.
-(also Du bist mindestens ein fünftel CO2 neutral) hast daneben noch Steuer gezahlt (ein drittel der Strompreis sind Steuer) 
 
 die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 
@@ -83,20 +82,25 @@ die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 ### Fazit  
 **wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,  
 dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :)  
-wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
+- wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
 > passiert nichts  
  
-wenn Du einschaltest und zB. **mit modus `H` mitarbeitest**:   
+- wenn Du einschaltest und zB. **mit modus `H` mitarbeitest**:   
 > **kompensierst 14 tonnen CO2,**  
 > mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
 > dein CO2 bilanz bleibt positiv  
 > **Du bekommst 330 € im Jahr, :)**  
 > kannst paarmal gut essen gehen oder sonst ausgeben    
 > **Du zahlst 160 € für Strom :(**  
-> davon sind 50 € Steuern und Abgaben dir f. die allgemeinheit zu gute kommen  
+> davon sind 50 € Steuern und Abgaben die f. dich und f. allgemeinheit zu gute kommen  
 > andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)  
 > der Rest sind energiekosten  
->   
+> **Du Unterstützt die Crypto environment :(**  
+> ca. 1% geht an die Entwickler 8 € 
+> ca. 1% geht an die Miningpool 8 € 
+> ca. 2% gehen auf Transaktionskosten Pool - ETH - EUR 
+> ca. 30 € kosten f. die Überweisungen
+> 
 https://github.com/nanopool/nanominer/releases
 
 https://github.com/yanghuan/ConsoleSystemTray
