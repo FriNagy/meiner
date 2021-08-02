@@ -58,6 +58,9 @@ wahlweise zwischen [climateaustria.at](https://www.climateaustria.at/co2-kompens
 Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben `N`, `H`, oder `A` setzt.
 `N(o` , `H(alb`, oder `A(ll` default ist eben 10% 
 
+Ich kann es schwer vorstellen dass mit so ein CO2 kompensation wirlich die Klimawandel stoppen kann, 
+und nicht ähnliches passiert wie wenn Du den Kühlschranktür offen lässt deinen Zimmer zu kühlen, aber die Projekte sind definitiv unterstützungswert.  
+
 ### Rechen Beispiel 
 
 Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 errechnet
@@ -79,20 +82,21 @@ die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 ### Fazit  
 **wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,  
 dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :)  
-- wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
-> passiert nichts  
- 
 - wenn Du einschaltest und zB. **mit modus `H` mitarbeitest**:   
-> **kompensierst 14 tonnen CO2,**  
-> mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
-> dein CO2 bilanz bleibt positiv  
+
 > **Du bekommst 330 € im Jahr auf dein Konto :)**  
 > kannst paarmal gut essen gehen oder sonst ausgeben    
 > **Du zahlst 160 € für Strom :(**  
 > davon sind 50 € Steuern und Abgaben die f. dich und f. allgemeinheit zu gute kommen  
 > andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)  
 > der Rest sind energiekosten  
-
+> **kompensierst 14 tonnen CO2,**  
+> mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
+> dein CO2 bilanz bleibt positiv  
+> 
+- wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
+> passiert nichts  
+ 
 
 weitere Links:
 
