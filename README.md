@@ -7,8 +7,9 @@
 
 In letzten 6 Monaten stelle ich Kryptos her, und möchte hier meine Erfahrungen teilen.
 Kryptos, in dem Fall Ether, sind sehr volatil. Je nach Kursentwicklung können die Ertäge doppelt
-oder auch nur halb so hoch sein. Die Tabelle zeigt die Durchschnittswerte der Ertäge pro **Monat**:
+oder auch nur halb so hoch sein. 
 
+Die Tabelle zeigt die Durchschnittswerte der Ertäge pro **Monat**:
 
 
 |Grafikkarte        |PC         | Mh/s | Watt/h| Ein   | Kosten Strom|Ertrag|
@@ -20,10 +21,11 @@ oder auch nur halb so hoch sein. Die Tabelle zeigt die Durchschnittswerte der Er
 Das heißt, mit einem aktuellen Gaming Laptop, kannst du monatlich ca. 50 bis 70 Euro Gewinn erzielen.
 Dafür muss dein Gerät allerdings  **rund um die Uhr** laufen.  
 
-Wenn ihr das ganze einfach testen wollt, könnt ihr es einfach mit meine Konto machen.  
+Wenn du ebenfalls schürfen willst und den Prozess ausprobieren möchtest, kannst du dies mit meinem Konto machen.
+Dafür stelle ich ein einfaches Installationsprogramm zur Verfügung.
 
-Das installationsprogramm runterladen, installieren (dabei deinen IBAN eingeben (oder nicht)) und starten.  
-Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, überwiesen sonst für ein Umweltprojekt gespendet.  
+Du kannst das Programm gleich runterladen und installieren, deinen IBAN eingeben (oder nicht)) und starten.  
+Nachdem das Programm 40 Euro errechnet hat, wird der Betrag, sofern du ein IBAN-Konto angegeben hast, auf dieses Konto überwiesen, ansonsten wird das Geld einem Umweltprojekt gespendet.  
 
 [VideoClip installation](https://www.youtube.com/watch?v=MStYauQYFYQ)
 
@@ -39,32 +41,24 @@ Nachdem Du 40 Euro errechnet hast wir der Betrag auf dein IBAN, wenn angegeben, 
 </p>
 
 ### Auszahlungsmodus:
-Jeder Tagesende werden die jeweils errechnete Shares ermittelt und zu deinem Konto zugeordnet,   
-nach dem das MiningPool im Ether auszahlt, wird zeitnah auf Euro gewechselt und dieser Betrag anteilig nach shares verteilt.  
-hat nun dein Konto 40 Euro erreicht, wird es an dich ausbezahlt. 4 Euro Überweisungsgebühr (inkl.MWst) muss ich abziehen
-und vorgesehen ist auch eine 10%-ige spende an eine CO2-Kompensationsprojekt, die Du aber abschalten kannst.  
+Jeweils zu Tagesende (24 Uhr) werden die errechneten Shares ermittelt und deinem Konto zugeordnet. Nachdem der Miningpool die Ether ausgezahlt hat, werden diese zeitnah in Euros umgewechselt. Sind die 40 € überschritten wird der Batrag auf dein angegebenes IBAN-Konto überwiesen, abzüglich 2 € Bearbeitungsgebühr. **Zusätzlich werden dem Betrag 10% für eine CO2 Kompensationsspende abgezogen.** Zu überweisen brauche ich nur deinen IBAN. Auf dieses Konto, mit Kontobezeichnung N.N. überweise ich den restlichen Betrag. Dein IBAN 
 
-zu Überweisen brauche ich nur deinen IBAN, auf diese Konto (mit Kontobezeichnung N.N.) überweise ich den restlichen Betrag.  
 Dein IBAN ist natürlich auch alle anderen miner sichtbar, (das ist quasi deine Nickname) willst Du das nicht gibt zwei Möglichkeiten:
- - [ ] Du gibst keine o. falsche IBAN an, Deine Erträge werden nicht ausbezahhlt sondern f. CO2 Kompensation verwendet  
- - [ ] Du arbeitest zwar mit falschen IBAN (nur Zahlen) und Überweist 1 (oder mehr) Euro auf mein Konto mit dem hinweis, so sehe ich auf welche Konto überweisen soll 
+ - [ ] Du gibst keine IBAN an, Deine Erträge werden nicht ausbezahhlt sondern f. CO2 Kompensation verwendet  
+ - [ ] Du arbeitest zwar mit falschen IBAN = Nickname,  überweist 1 (oder mehr) Euro auf mein Konto mit einem Hinweis auf deinen Nickname, so sehe ich auf welche Konto überweisen soll 
 
-Alle Berechnungen werden transparent gespeichert, und auf Anfrage kann ich dir zumailen (vorausgesetzt Du hast irgendwann mitgetan (und ich kenne dein EMail)). 
+Alle Berechnungen werden transparent gespeichert. Auf Anfrage kann ich dir jederzeit alle zumailen. Voraussetzung ist, dass du irgendwann mitgearbeitet hast und ich deine E-Mail kenne. 
 
 ### CO2-Kompensationsprojekt
-Crypto Miner sind Umweltsünder, es ist also vorgesehen 10% von der Erträge an eine CO2-Projekt zu spenden,
-wahlweise zwischen [climateaustria.at](https://www.climateaustria.at/co2-kompensation.html)  bzw. [atmosfair.de](https://www.atmosfair.de/de/kompensieren/)
+Crypto Mining belastet die Umwelt, daher ist vorgesehen, 10% aller Erträge einem CO2-Projekt zu spenden,
+wahlweise [climateaustria.at](https://www.climateaustria.at/co2-kompensation.html)  oder [atmosfair.de](https://www.atmosfair.de/de/kompensieren/)
 
-Du kannst die Prozentsatz ändern, wenn Du hinter deinen IBAN die Buchstaben `N`, `H`, oder `A` setzt.
-`N(o` , `H(alb`, oder `A(ll` default ist eben 10% 
-
-Ich kann es schwer vorstellen dass mit so ein CO2 kompensation wirlich die Klimawandel stoppen kann, 
-und nicht ähnliches passiert wie wenn Du den Kühlschranktür offen lässt deinen Zimmer zu kühlen, aber die Projekte sind definitiv unterstützungswert.  
+CO2 Kompensationen können den Klimawandel zwar nicht aufhalten, doch sind sie zumindest ein kleiner Beitrag in die richtige Richtung und die erwähnten Projekte sind definitiv unterstützenswert.  
 
 ### Rechen Beispiel 
 
-Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 errechnet
-(Stand 15 Juli) ca. 1000 € pro Jahr bei 1400 kWh Jahresverbrauch, 
+Der Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 schürft bei 1400 kWh Jahresverbrauch 
+ca. 1000 € ( Werte hochgerechnet pro Jahr , 
 kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional ohne CO2 Emission)
 **zu minen ist er nur ausserhalb der Arbeitzeit eingeschaltet** (ca. 120 Stunde/Woche) so verringern sich die Werte.
 
