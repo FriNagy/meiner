@@ -58,38 +58,29 @@ CO2 Kompensationen können den Klimawandel zwar nicht aufhalten, doch sind sie z
 ### Rechen Beispiel 
 
 Der Gaming Laptop, MSI GP66 Leopard mit mobilen RTX3070 schürft bei 1400 kWh Jahresverbrauch 
-ca. 1000 € ( Werte hochgerechnet pro Jahr , 
-kosten 224 €/Jahr mit Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional ohne CO2 Emission)
-**zu minen ist er nur ausserhalb der Arbeitzeit eingeschaltet** (ca. 120 Stunde/Woche) so verringern sich die Werte.
+ca. 1000 € pro Jahr (Werte hochgerechnet mit Stand Dez.2021)  dabei entstehen stromkosten von 224 €/Jahr ( Öko Tarif der Stadt Innsbruck (Erzeugt 100% Regional ohne CO2 Emission).
 
-| Modus |Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
-|-------|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
-|NO	|700	|64	|0	|636	|160	|476	|0,0   |
-|	|700	|64	|64	|572	|160	|412	|2,5  |
-|HALF	|700	|30	|335	|335	|160	|175	|14,0 |
-|ALL	|700	|0	|700	|0	|160	|-160	|30,0   |
+|Errechnet|Kosten ÜW|Kosten CO2	|Überwiesen| -Strom|	bleibt|	tCO2 Kompensiert|
+|--------:|--------:|----------:|---------:|------:|---------:|----------------:|
+|700	|32	|64	|572	|160	|412	|2,5  |
 
-Ist dein Laptop, ausserhalb der Arbeitszeiten eingeschaltet, bekommst Du 570 Euro pro Jahr überwiesen und hast noch 2,5 tonnen CO2 kompensiert.
+Ist dein Laptop also ausserhalb der Arbeitszeiten (ca. 120 Stunde/Woche mit), eingeschaltet, 
+bekommst Du 570 Euro pro Jahr überwiesen und hast noch 2,5 tonnen CO2 kompensiert.
 
 die Werte mit ein Gaming PC mit Grafikkarte sind natürlich besser ...
 
 ### Fazit  
-**wenn Du bereits** ein Laptop oder PC mit aktuellen Grafikkarte hast,  
-dann kannst nicht besseres für die Umwelt, für dich, für viele anderen tun als da mitzumachen. :)  
-- wenn Du einschaltest und zB. **mit modus `H` mitarbeitest**:   
+**wenn Du bereits** einen Laptop oder einen PC mit einer aktuellen Grafikkarte hast,  
+kannst du nichts Besseres für dich, andere und die Umwelt tun, als da mitzumachen. :)  
 
-> **Du bekommst 330 € im Jahr auf dein Konto :)**  
+> **Du bekommst 570 € im Jahr auf dein Konto :)**  
 > kannst paarmal gut essen gehen oder sonst ausgeben    
 > **Du zahlst 160 € für Strom :(**  
 > davon sind 50 € Steuern und Abgaben die f. dich und f. allgemeinheit zu gute kommen  
 > andere 50 € werden f. die verbesserung und ausbau des Stromnetzes verwendet (auch wichtig!)  
-> der Rest sind energiekosten  
-> **kompensierst 14 tonnen CO2,**  
-> mehr als ein durchscnittseuropäer erzeugt, Du kannst ruhig autofahren, Steak essen, zocken,  
-> dein CO2 bilanz bleibt positiv  
+> der Restbetrag sind reine Energiekosten  
+> **kompensierst 2,5 tonnen CO2,**  
 > 
-- wenn Du dein Gerät ausserhalb deine Arbeit o. Spielzeiten **nicht** einschaltest:  
-> passiert nichts  
  
 
 weitere Links:
